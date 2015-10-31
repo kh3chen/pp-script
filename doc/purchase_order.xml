@@ -1,0 +1,15 @@
+<purchase_order>
+  <external_identifier>PO-3</external_identifier>
+  <number>PO-3</number>
+  <purchase_order_items>
+    <purchase_order_item>
+      <external_identifier>POI-00030</external_identifier>
+      <number>00030</number>
+      <product external_identifier='PROD-1'/>
+      <quantity>30</quantity>
+      <unit_of_measure>widgets</unit_of_measure>
+      <price_per_unit>99.9</price_per_unit>
+      <due_date>2015-10-31 00:00:00 UTC</due_date>
+    </purchase_order_item>
+  </purchase_order_items>
+</purchase_order>
